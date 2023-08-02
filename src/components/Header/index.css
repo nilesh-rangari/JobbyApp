@@ -1,0 +1,25 @@
+.header-container {
+  background-color: #2c364c;
+  background-size: cover;
+}
+
+.header-items-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  padding: 10px;
+}
+
+.home-jobs-container {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+
+.home-jobs-item {
+  color: #ffffff;
+  font-family: Roboto;
+  margin-left: 10px;
+  margin-right: 10px;
+}
